@@ -1,0 +1,7 @@
+git init
+git config user.name wirmed
+git config user.email saydouuu@gmail.com
+git add .
+git commit -m "Add project structure and game classes"
+git add . 
+git commit -m "Add game loop, GameForm and GamePresenter"
